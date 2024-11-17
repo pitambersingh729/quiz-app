@@ -10,7 +10,7 @@ A dynamic and interactive quiz application built using HTML, CSS, and JavaScript
 </ul>
 
 <h3>Demo</h3>
-<p><a href="https://pitambersingh.com/javascript-plugins/quiz-app/" target="_blank" rel="follow">Demo Link</a></p>
+<p><a href="https://pitambersingh.com/javascript-plugins/quiz-app/" target="_blank" rel="follow">https://pitambersingh.com/javascript-plugins/quiz-app/</a></p>
 
 <h3>Installation</h3>
 <p>To use this project locally:</p>
@@ -30,19 +30,6 @@ A dynamic and interactive quiz application built using HTML, CSS, and JavaScript
 	<li>Once all questions are answered, the Submit Quiz button is enabled.</li>
 	<li>On submission, the app calculates the user's score and displays the results in a percentage format.</li>
 </ul>
-
-<h3>Project Structure</h3>
-quiz-app/
-│
-├── css/
-│   └── style.css         # Styles for the app
-│
-├── script/
-│   └── script.js         # JavaScript logic for the app
-│
-├── index.html            # Main HTML file
-│
-└── README.md             # Documentation file
 
 <h3>Technologies Used</h3>
 <ul>
